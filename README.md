@@ -1,5 +1,4 @@
-✔️  ###MOHAMMAD TARIQ
-    <HELLO WORLD/> 👋🔍
+Hello World ! 👋😄👋
 
 <I am Tariq , so grateful to be sharing my profile with you., a self-motivated web developer from Pakistan/> 👉 💻
 
